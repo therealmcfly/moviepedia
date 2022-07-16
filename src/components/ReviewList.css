@@ -1,0 +1,12 @@
+.ReviewItem {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+
+.ReviewItem-img {
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+  padding-right: 20px;
+}
